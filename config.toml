@@ -1,0 +1,12 @@
+
+[kafka]
+client_id = "rustLoadX"
+brokers = ["localhost:9092"]
+
+
+[kafka.feature_load_test]
+topic = "feature_load_test"
+
+[kafka.feature_load_test_producer]
+batch_size = 10
+linger_time = 10
