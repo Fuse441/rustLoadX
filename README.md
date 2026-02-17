@@ -1,4 +1,4 @@
-🚀 RustLoadh
+🚀 RustLoadX
 
 RustLoadX คือ CLI-based Kafka Load Testing Tool ที่พัฒนาด้วยภาษา Rust
 ออกแบบมาเพื่อทดสอบ throughput, performance และ stability ของ Kafka Producer แบบ realtime ผ่าน Terminal UI
